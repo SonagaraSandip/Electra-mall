@@ -25,7 +25,6 @@ const SingleProduct = () => {
     company,
     price,
     description,
-    category,
     stock,
     stars,
     reviews,
@@ -78,7 +77,7 @@ const SingleProduct = () => {
 
               <div className="product-warranty-data">
                 <TbTruckDelivery className="warranty-icon" />
-                <p>Electra Delivered </p>
+                <p>Thapa Delivered </p>
               </div>
 
               <div className="product-warranty-data">
